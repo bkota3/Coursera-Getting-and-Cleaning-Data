@@ -35,7 +35,9 @@ The complete list of variables of each feature vector is available in 'features.
 
 
 tBodyAcc-mean()-X
+
 tBodyAcc-mean()-Y
+
 tBodyAcc-mean()-Z
 tBodyAcc-std()-X
 tBodyAcc-std()-Y
